@@ -36,11 +36,10 @@ criaCartao(
     ' Quem escreveu o romance "Dom Quixote"?',
     ' O romance "Dom Quixote" foi escrito pelo autor espanhol Miguel de Cervantes' 
 )
-    criaCartao(
+criaCartao(
     'Tecnologia',
     'O que é um algoritmo?',
-    'Um algoritmo é uma sequência de instruções ou passos lógicos que devem ser seguidos para resolver um problema ou executar uma tarefa.
-'
+    'Um algoritmo é uma sequência de instruções ou passos lógicos que devem ser seguidos para resolver um problema ou executar uma tarefa.'
 )
 criaCartao(
     'Astronomia',
